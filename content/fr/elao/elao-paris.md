@@ -8,7 +8,7 @@ Elao existe depuis 10 ans. Nous avons des bureaux à **Paris, Lyon et Montpellie
 
 Elao a été créé par 3 développeurs sur Lyon. Elao Paris est une extension d’Elao avec le même ADN « technique ». Elao Paris, c’est aussi la volonté de prendre en compte une partie accompagnement client à travers du Scrum Mastering et de l'accompagnement de Product Owner. **Nous préconisons aussi des approches Lean** toujours dans l’idée d’être le plus pragmatique et d’apporter le maximum de valeur ajoutée à notre **partenariat avec nos clients**.
 
-Nous sommes à la **recherche de nouvelles personnes** qui souhaitent nous accompagner dans notre développement parisien. Rejoindre Elao Paris, c’est **rejoindre des développeurs passionnées** mais c’est aussi rejoindre une structure qui grandit et dans laquelle vous pouvez apporter votre pierre à l’édifice.
+Nous sommes à la **recherche de nouvelles personnes** qui souhaitent nous accompagner dans notre développement parisien. Rejoindre Elao Paris, c’est **rejoindre des développeurs passionnés** mais c’est aussi rejoindre une structure qui grandit et dans laquelle vous pouvez apporter votre pierre à l’édifice.
 
 
 #Etre proche de nos clients
@@ -21,14 +21,18 @@ L'**accompagnant projet** est un peu l’équivalent du **Scrum Master**. Il est
 
 
 # Environnement technique
-Notre socle technique est basé **depuis 2006** sur PHP et le framework **Symfony** sur lequel nous avons beaucoup investi. Nous faisons partie des tout premiers **partenaires officiels de SensioLabs**, l'éditeur de Symfony. Mais le web ne résume pas à la partie backend; nous avons également une affinité grandissante avec l'écosystème **JavaScript**, avec des projets en **React** et **ReactNative**.Notre positionnement historique sur Symfony nous confronte à des projets profondément techniques. **Chaque projet est unique**. Nous faisons de l'**application web métier sur mesure**. Cette appétence technique et notre recherche de l'efficacité nous ont très rapidement fait monter en compétence sur la partie Ops. Porté par la mouvance **DevOps**, nous avons commencé par **l'optimisation de notre écosystème de développement**, puis de nos environnements de démo, pour finir par la prod et faire émerger un **nouveau métier** chez Elao : **l'hébergement sur mesure** d'application web. Nous sommes positionnés sur la solution **Ansible**.
+Notre socle technique est basé **depuis 2006** sur PHP et le framework **Symfony** sur lequel nous avons beaucoup investi. Nous faisons partie des tout premiers **partenaires officiels de SensioLabs**, l'éditeur de Symfony. Mais le web ne se résume pas à la partie backend; nous avons également une affinité grandissante avec l'écosystème **JavaScript**, avec des projets en **React** et **ReactNative**.
+
+Notre positionnement historique sur Symfony nous confronte à des projets profondément techniques. **Chaque projet est unique**. Nous faisons de l'**application web métier sur mesure**. 
+
+Cette appétence technique et notre recherche de l'efficacité nous ont très rapidement fait monter en compétence sur la partie Ops. Porté par la mouvance **DevOps**, nous avons commencé par **l'optimisation de notre écosystème de développement**, puis de nos environnements de démo, pour finir par la prod et faire émerger un **nouveau métier** chez Elao : **l'hébergement sur mesure** d'applications web. Nous sommes positionnés sur la solution **Ansible**.
 
 Nous sommes des **artisans passionnés** par cet écosystème qui avance vite… très vite.
 
 # Une culture de l’ingénierie logicielle
 Depuis **10 ans** et quelques **200 projets** web, nous avons construit en interne une culture du **génie logiciel**. Certains de nos clients nous ont poussés à aller loin sur le terrain de la qualité au vu de la criticité de certaines de leurs applications. Maintenant, ce niveau de **qualité** est devenu un **standard** chez Elao.
 
-Cette approche vertueuse du développement nous a systématiquement prouvés sa valeur ajoutée sur le moyen/long terme. Le **coût de la qualité reste bien inférieur à celui de la non-qualité**. Un investissement raisonnable au début du projet permet des **gains importants** en temps et en sérénité sur le projet.
+Cette approche vertueuse du développement nous a systématiquement prouvé sa valeur ajoutée sur le moyen/long terme. Le **coût de la qualité reste bien inférieur à celui de la non-qualité**. Un investissement raisonnable au début du projet permet des **gains importants** en temps et en sérénité sur le projet.
 
 Notre **culture** centrée sur le **produit** impacte également la structure de notre code. Nous essayons de **découpler le code métier**, qui porte le plus de valeur ajoutée, du framework qui sert juste à le mettre en oeuvre. Ce **type d'architecture DDD** (Domain Driven Design) permet également de faciliter la mise en place de tests automatiques et de se rendre moins dépendant des montées de version du framework.
 
@@ -40,13 +44,14 @@ Pour garantir la **qualité** dans le temps et la **non-régression**, nous mett
 Pour garantir et suivre les indicateurs qualité tout au long du projet, nous mettons en place les outils de qualité de type CodeSniffer, SensioLabs Insight, Scrutinizer.
 
 #Le partage
-Nous sommes conscients que les technologies avancent très vite en ce moment et nous souhaitons **dédier du temps pour monter en compétence** et nous former à travers des Dojos/Katas, des Elao Talks où nous expérimentons des nouvelles technologies ou des nouveaux design patterns. 
+Nous sommes conscients que les technologies avancent très vite et nous souhaitons **dédier du temps pour monter en compétence** et nous former à travers des Dojos/Katas, des Elao Talks où nous expérimentons des nouvelles technologies ou des nouveaux design patterns. 
 
 Nous appliquons aussi cette recette sur des projets. Notre jeu **LazerDrive** est né comme un **projet de R&D** sous le nom de **Curvytron** avant de prendre son envol en tant que projet à part entière. Nous avons aussi **participé aux lancements de  startups**.
 
 Vous pouvez nous croiser sur les **conférences techniques** où nous participons et proposons des sujets. Nous sommes **impliqués dans la vie de l'AFUP** depuis 2008 et nous organisons le meetup lyonnais Ansible. 
 
-Nous rendons aussi au monde de l'Open Source ce qu'il nous apporte. Nous partageons du code avec l'**ouverture de notre stack Symfony**, de certains de nos **bundles** ou de nos **rôles Ansible**.
+Nous rendons aussi au monde de l'Open Source ce qu'il nous apporte. Nous partageons du code avec l'**ouverture de notre stack Symfony**, de certains de nos **bundles** ou de nos **rôles Ansible**.
+
 #Nous rejoindre
 Nous espérons que vous avez une bonne idée de ce qu'est Elao. Nous vous proposons de **vous rencontrer sur Paris près de la Bourse** pour en discuter plus en détail. Nous recherchons des **personnes avec un bon niveau de programmation**, encore mieux sur du PHP, toujours plus mieux, sur du Symfony. Nous sommes capables de **faire monter en compétence** des personnes moins expérimentées mais qui ont de bonnes bases.
 
